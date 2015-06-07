@@ -1,11 +1,10 @@
 ---
-title: ''
+title: ta
 image: ''
 categories: jekyll
 layout: post
-excerpt: ''
 author: ''
-comments_enabled: '1'
+comments_enabled: true
 tags: ''
 ---
 # h1
