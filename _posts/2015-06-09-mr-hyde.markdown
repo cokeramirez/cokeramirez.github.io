@@ -1,5 +1,6 @@
 ---
 title: mr hyde all right
+layout: post
 ---
 
 will this wirk???
